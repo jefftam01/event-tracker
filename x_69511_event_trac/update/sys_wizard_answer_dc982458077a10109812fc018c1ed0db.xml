@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
     <sys_wizard_answer action="INSERT_OR_UPDATE">
         <active>true</active>
-        <answer>New Event</answer>
+        <answer>Event</answer>
         <button_label/>
         <dependent_value/>
         <element/>
@@ -14,16 +14,16 @@
         <script/>
         <sys_class_name>sys_wizard_answer</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-18 21:10:27</sys_created_on>
-        <sys_id>b04228d0077a10109812fc018c1ed001</sys_id>
+        <sys_created_on>2020-08-18 21:37:59</sys_created_on>
+        <sys_id>dc982458077a10109812fc018c1ed0db</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Event</sys_name>
         <sys_package display_value="2" source="x_69511_event_trac">910264d0077a10109812fc018c1ed03f</sys_package>
         <sys_policy/>
         <sys_scope display_value="2">910264d0077a10109812fc018c1ed03f</sys_scope>
-        <sys_update_name>sys_wizard_answer_b04228d0077a10109812fc018c1ed001</sys_update_name>
+        <sys_update_name>sys_wizard_answer_dc982458077a10109812fc018c1ed0db</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-18 21:10:27</sys_updated_on>
+        <sys_updated_on>2020-08-18 21:37:59</sys_updated_on>
         <table/>
         <target_url>x_69511_event_trac_event.do</target_url>
         <type>1</type>

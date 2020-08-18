@@ -6,9 +6,9 @@
         <sys_id>1d4228d0077a10109812fc018c1ed036</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_69511_event_trac_event.x_69511_event_trac.event_manager</sys_name>
-        <sys_package display_value="Event Tracker" source="x_69511_event_trac">910264d0077a10109812fc018c1ed03f</sys_package>
+        <sys_package display_value="2" source="x_69511_event_trac">910264d0077a10109812fc018c1ed03f</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Event Tracker">910264d0077a10109812fc018c1ed03f</sys_scope>
+        <sys_scope display_value="2">910264d0077a10109812fc018c1ed03f</sys_scope>
         <sys_security_acl display_value="x_69511_event_trac_event">d14228d0077a10109812fc018c1ed034</sys_security_acl>
         <sys_update_name>sys_security_acl_role_1d4228d0077a10109812fc018c1ed036</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
